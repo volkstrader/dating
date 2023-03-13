@@ -8,7 +8,7 @@ import (
 
 func main() {
 	const name = "barbie"
-	const age = 25
+	const age = 24
 
 	a := actress.Profile{
 		Name: name,
