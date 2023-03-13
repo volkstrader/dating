@@ -1,0 +1,11 @@
+github.com/brianvoe/gofakeit v3.18.0+incompatible h1:wDOmHc9DLG4nRjUVVaxA+CEglKOW72Y5+4WNxUIkjM8=
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/stretchr/testify v1.8.2 h1:+h33VjcLVPDHtOdpUCuF+7gSuG3yGIftsP1YvFihtJ8=
+github.com/volkstrader/actress v1.0.0 h1:CN0L8QAZVZ7/+KHfLIYxXoC1jYBOjCgomg/0J5bYwuU=
+github.com/volkstrader/actress v1.0.0/go.mod h1:8HSCtCMzREASUnOEaRbiRcAUilQcY/0/Y0wrGCuKXrw=
+github.com/volkstrader/girlfriend v1.0.1 h1:dZJ6CN8saqEDb50ggQ5YBn1dh5WzotWU2bBGQVlZpV0=
+github.com/volkstrader/girlfriend v1.0.1/go.mod h1:zWTj3cMSXa96cKFtehbSjbmOEgp3kba/zRRXoyq63DU=
+github.com/volkstrader/model v1.0.1 h1:aPfZ1FZdMpTjJCm4pPLUnqeWAKaMidiOccj7j/UHDf8=
+github.com/volkstrader/model v1.0.1/go.mod h1:a4hDWrc48O2Ub82G51UYzUARrnw3RoS6GEtssJnWJWQ=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
